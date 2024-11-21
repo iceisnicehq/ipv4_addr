@@ -3,7 +3,7 @@
 
 Диапазон IP-адресов Youtube +TV
 Код: Выделить всё
-
+```
 /ip firewall address-list
 add list=YouTube address=8.8.4.0/24
 add list=YouTube address=8.8.8.0/24
