@@ -1,6 +1,16 @@
+---Phone---
 dns.adguard-dns.com
 xbox-dns.ru
 dns.comss.one
 
+---DNS-Over-HTTPS----
 https://dns.comss.one/dns-query
 https://xbox-dns.ru/dns-query
+
+ipv4_comms
+83.220.169.155 
+212.109.195.93
+
+ipv4_xbox
+176.99.11.77
+80.78.247.254
