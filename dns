@@ -1,6 +1,6 @@
 https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=129800546
 
----Phone---
+---Phone--- (DNS-over-TLS (Private DNS))
 dns.adguard-dns.com
 xbox-dns.ru
 dns.comss.one
@@ -20,7 +20,18 @@ ipv4_comms
 ipv4_xbox
 176.99.11.77
 80.78.247.254
+2a00:f940:2:4:2::5d1b
+2a00:f940:2:4:2::21ed
 
+
+---dns-malw-link---
+IPv4 DNS 1:84.21.189.133
+IPv4 DNS 2:64.188.98.242
+IPv6 DNS 1:2a12:bec4:1460:d5::2
+IPv6 DNS 2:2a01:ecc0:2c1:2::2
+DNS over TLS:dns.malw.link
+DNS over HTTPS:https://dns.malw.link/dns-query
+DNSCrypt stamp:sdns://AgIAAAAAAAAADTg0LjIxLjE4OS4xMzMADWRucy5tYWx3LmxpbmsKL2Rucy1xdWVyeQ
 
 
 comms src https://www.comss.ru/page.php?id=7315
